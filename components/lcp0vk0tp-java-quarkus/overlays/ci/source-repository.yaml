@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lcp0vk0tp-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lcp0vk0tp-java-quarkus
